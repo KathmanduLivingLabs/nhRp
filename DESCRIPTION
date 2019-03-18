@@ -1,0 +1,15 @@
+Package: nhRp
+Type: Package
+Title: The nhRp Package
+Version: 0.1.0
+Author: Kathmandu Living Labs
+Maintainer: Kathmandu Living Labs <kathmandulivinglabs@gmail.com>
+Description: Provides helper functions for extracting and playing with NHRP data.
+    The package makes use of the publicley accessible NHRP API to generate requisite datasets for analysis.
+License: GPL-2
+Encoding: UTF-8
+Imports: 
+    dplyr,
+    stringr,
+    jsonlite
+LazyData: FALSE

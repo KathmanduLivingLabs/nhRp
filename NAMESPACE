@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+
+export(get_distribution)
+export(get_crosstabs)
